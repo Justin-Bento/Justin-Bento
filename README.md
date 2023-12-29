@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+Welcome to my ✨ _special_ ✨ repository.
+
+I'm currently on vacation in Jamaica ✈️ 🇯🇲 and will be back on the 7th of January. 
+
+All activities are on pause during this time. Sorry for any inconvenience during this time.
+
 <!--
-**Justin-Bento/Justin-Bento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Justin-Bento/Justin-Bento**  because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
