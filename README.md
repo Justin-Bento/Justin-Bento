@@ -2,10 +2,7 @@
 
 Welcome to my ✨ _special_ ✨ repository.
 
-I'm currently on vacation in Jamaica ✈️ 🇯🇲 and will be back on the 7th of January. 
-
-All activities are on pause during this time. Sorry for any inconvenience during this time.
-
+I'm back in Toronto ✈️ 🇨🇦 and working again. 
 <!--
 **Justin-Bento/Justin-Bento**  because its `README.md` (this file) appears on your GitHub profile.
 
