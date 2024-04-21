@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Welcome to my ✨ _special_ ✨ repository.
-
-I'm back in Toronto ✈️ 🇨🇦 and working again. 
 <!--
 **Justin-Bento/Justin-Bento**  because its `README.md` (this file) appears on your GitHub profile.
 
