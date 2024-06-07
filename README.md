@@ -1,6 +1,8 @@
 # Welcome to My GitHub!
 
-If you're from LinkedIn you're probably wondering why you're here? This GitHub repository serves as a comprehensive overview of all my technical projects and ongoing work that might not be mentioned on my main website. Here is a brief overview of Main Website vs. my GitHub
+If you're from LinkedIn you're probably wondering why you're here? This GitHub repository serves as a comprehensive overview of all my technical projects and ongoing work that might not be mentioned on my main website. 
+
+Here is a brief overview of Main Website vs. my GitHub
 
 ### Main Website
 
