@@ -6,7 +6,9 @@ Here is a brief overview of Main Website vs. my GitHub
 
 ### Main Website
 
-My main website www.justin-bento.com/ is dedicated to telling the story of how each project came to be. It focuses on the journey, challenges, and insights gained throughout the development process. If you're interested in the narrative behind the projects, feel free to check it out 
+My main website www.justin-bento.com/ is dedicated to showcasing the projects, in a visually engaing way feel free to check it out.  
+
+Deprecated: ~telling the story of how each project came to be. It focuses on the journey, challenges, and insights gained throughout the development process.~ 
 
 
 ### GitHub
