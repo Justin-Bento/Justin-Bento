@@ -6,10 +6,7 @@ Here is a brief overview of Main Website vs. my GitHub
 
 ### Main Website
 
-My main website www.justin-bento.com/ is dedicated to showcasing the projects, in a visually engaing way feel free to check it out.  
-
-Deprecated: ~telling the story of how each project came to be. It focuses on the journey, challenges, and insights gained throughout the development process.~ 
-
+My main website www.justin-bento.com/ is dedicated to showcasing the projects, in a visually engaing way feel free to check it out. 
 
 ### GitHub
 
@@ -18,3 +15,5 @@ My GitHub repository, on the other hand, is for developers like myself who care 
 - **Ongoing Projects:** Sneak peeks into what I'm currently working on, including experimental and in-progress projects.
 - **Open-Source Contributions:** Take a look at the projects I follow and the contributions I make to them.
 - **Explore My Config Files:** Take a look at my configuration files and see how I set things up.
+
+Thanks for reading this and hope you have a wonderful time. 
