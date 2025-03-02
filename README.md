@@ -2,7 +2,7 @@
 
 You're probably wondering why you're here? This GitHub repository serves as a comprehensive overview of all my technical projects and ongoing work that might not be mentioned on my main website or LinkedIn. 
 
-Here is a brief overview of Main Website vs. my GitHub
+Here is a brief overview my digital space.
 
 ### Main Website
 
