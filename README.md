@@ -1,19 +1,13 @@
-# Welcome to My GitHub!
+# Main Website
 
-You're probably wondering why you're here? This GitHub repository serves as a comprehensive overview of all my technical projects and ongoing work that might not be mentioned on my main website or LinkedIn. 
+My main website, www.justin-bento.com, is dedicated to showcasing my projects in a visually engaging way. Feel free to check it out!
 
-Here is a brief overview my digital space.
-
-### Main Website
-
-My main website www.justin-bento.com/ is dedicated to showcasing the projects, in a visually engaing way feel free to check it out. 
-
-### GitHub
-
+## GitHub
 My GitHub repository, on the other hand, is for developers like myself who care about the code and technical details. Here, you'll find:
+
 - **Source Code:** The actual code behind my projects, available for you to explore, use, and contribute to.
 - **Ongoing Projects:** Sneak peeks into what I'm currently working on, including experimental and in-progress projects.
-- **Open-Source Contributions:** Take a look at the projects I follow and the contributions I make to them.
-- **Explore My Config Files:** Take a look at my configuration files and see how I set things up.
+- **Open-Source Contributions:** A look at the projects I follow and the contributions I make to them.
+- **Configuration Files:** Explore my setup and configuration files to see how I organize my workflows.
 
-Thanks for reading this and hope you have a wonderful time. 
+Thanks for stopping by, and I hope you enjoy exploring my work!
