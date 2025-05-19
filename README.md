@@ -1,13 +1,22 @@
-# Main Website
+Hi, my name is Justin Bento. 
 
-My main website, www.justin-bento.com, is dedicated to showcasing my projects in a visually engaging way. Feel free to check it out!
+I build web apps with Ruby and Rails, JavaScirpt/TypeScript, React.js, Astro.js and Tailwind CSS. 
 
-## GitHub
-My GitHub repository, on the other hand, is for developers like myself who care about the code and technical details. Here, you'll find:
+Currently, I am focused on building accessible, human-centered products for the web.
+            
+## Main Website
 
-- **Source Code:** The actual code behind my projects, available for you to explore, use, and contribute to.
-- **Ongoing Projects:** Sneak peeks into what I'm currently working on, including experimental and in-progress projects.
-- **Open-Source Contributions:** A look at the projects I follow and the contributions I make to them.
-- **Configuration Files:** Explore my setup and configuration files to see how I organize my workflows.
+My main website, ~~[www.justin-bento.com]()~~, is currently undergoing maintenance. I apologize for any inconvenience.
 
-Thanks for stopping by, and I hope you enjoy exploring my work!
+In the meantime, feel free to check out [my LinkedIn page](https://www.linkedin.com/pulse/re-building-my-personal-website-justin-bento-yqvxc), where I share insights about rebuilding my site and more.
+
+## My GitHub Page
+
+My GitHub page is tailored for developers who like to build things on the internet. Here, you'll find:
+
+- **Source Code:** The actual code behind my projects — available to explore, use, or contribute to.  
+- **Ongoing Projects:** A glimpse into what I’m currently working on, including experimental and in-progress ideas.  
+- **Open-Source Contributions:** Projects I support and contribute to in the open-source community.  
+- **Configuration Files:** My personal setup and workflow tools, including dotfiles and system configurations.  
+
+Thanks for visiting — I hope you enjoy exploring my work!
