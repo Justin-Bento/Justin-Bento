@@ -1,9 +1,9 @@
-Hi, I’m Justin Bento.
+My name is Justin Bento.
 
-I’m a Full Stack Developer from Canada who enjoys building things that live on the internet.
+I am a software developer based in Toronto, Ontario, Canada, who enjoys building web-based applications. 
 
-I mostly work with JavaScript, React, Node.js and Ruby.
+I primarily work with JavaScript, React, Node.js, and Ruby. 
 
-I’m currently looking for full-time roles where I can contribute to a team and grow as a developer.
+I am currently seeking a full-time position where I can contribute to a team and continue developing my skills as a software developer. 
 
-Check out my projects below and reach out to me on linkedin!
+Please review my projects below, and feel free to connect with me on LinkedIn.
