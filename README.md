@@ -1,11 +1,16 @@
-Hey, My name is Justin Bento!
+Hey, I’m Justin Bento.
 
-I am a FullStack Software Developer, who enjoys building software with JavaScript, Node.js, React.js, and Ruby. 
+I started my journey in software development through Humber’s Website Design and Development program. After graduating from that program and landing a job, I found myself drawn to coding for its structure and creativity. With help from The Odin Project, I continued developing my programming skills and learned to blend design and development into a single workflow. These days, I’m active in programming events and developer communities with one goal: to build software that works well and looks good.
 
-My traditional education is a Multimedia Desginer. Thanks to The Odin Project and some courses at Humber, I was able to teach myself how to code while having a design-first mentality. 
+Here’s what you’ll find on my GitHub:
 
-With this mentality in mind I am able to create the literal UI/UX of an application and link it back to code.  Which has been a rule of mine that I’ve applied across all the projects on my GitHub.
+1. Code for my Node.js and Python projects.
+2. Technical documentation.
+3. Experimental ideas I’m exploring.
+4. Refining front-end interfaces that connect to back-end systems.
 
-I am currently seeking a full-time position where I can contribute to a team and provide my wide array of skills.
+You won’t find project takeaways, design case studies, blogs, or articles here. If you want to see that side of me, check out my [portfolio](https://www.justin-bento.com/) or [LinkedIn](https://www.linkedin.com/in/justinbento/). 
 
-Check out my projects below or in the repository tab, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/justinbento/).
+Thank you for taking the time to read my spiel. 
+
+~P.S. For my Canadian friends, this was fuelled by double-doubles.~
